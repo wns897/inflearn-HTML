@@ -1,7 +1,7 @@
 # 오리엔테이션
 
 
-HTML(HyperText Markup Language)정의-하이퍼텍스트를 가장 중요한 특징으로 하는 마크여의 형식을 가진 컴퓨터 프로그래밍 언어
+HTML(HyperText Markup Language)정의-하이퍼텍스트를 가장 중요한 특징으로 하는 컴퓨터 프로그래밍 언어
 
 기본(웹페이지만들기)
 
