@@ -26,7 +26,3 @@ body
 html
 모든 내용 = head 태그(문서를 수식, 저장방법 등등), body태그(본문내용)
 /html
-
-
-!conclusion!
-<>
