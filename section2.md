@@ -1,10 +1,10 @@
-====Type
+<strong>====Type</strong>
 
 1.<태그>=약속된 명령어.
 
 <시작태그>()</닫히는태그> 로 작성한다.
 
-====Grammer
+<strong>====Grammer</strong>
 
 h1(제목)/h1- 주제목(굵고 큰 문자, 줄바꿈 약속이 들어있음)-Heading1
 
