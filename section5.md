@@ -1,4 +1,4 @@
-<strong><font size="8">표만드는 방법, 병합</strong></font>
+<strong>표만드는 방법, 병합</strong>
 
 td /td태그=(table data약자)항목별로 묶는 태그 각각의 문자
 
