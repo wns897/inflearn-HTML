@@ -16,11 +16,11 @@ title웹 제목/title>- 열리는 웹 창의 제목을 설정한다
 meta charset="종류" - 태그 추가시 글씨가 깨지는 것을 방지한다.
 
 head
-본문이 아닌 태그  ====사용가능한것: title,meta  등등
+본문이 아닌 태그  (사용가능한것: title,meta)  등등
 /head
 
 body
-본문태그   ==== 사용가능한것: h1,li,ol,등등
+본문태그   (사용가능한것: h1,li,ol )등등
 /body
 
 html
