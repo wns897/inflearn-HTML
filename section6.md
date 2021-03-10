@@ -1,3 +1,8 @@
+<strong>====Type</strong>
+
+1.<태그>=약속된 명령어.
+
+<시작태그>()</닫히는태그> 로 작성한다.
 
 
 <strong>form 기본</strong>
