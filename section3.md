@@ -4,31 +4,23 @@
 
 <시작태그>()</닫히는태그> 로 작성한다.
 
-<strong>웹페이지 표현에 쓰이는 문법</strong>
 
+<strong>표만드는 방법, 병합</strong>
 
-li내용/li- 항목 각각을 나눈다 list약자
+td /td태그=(table data약자)항목별로 묶는 태그 각각의 문자
 
-ul
-항목
-/ul  ====항복을 그룹으로 만든다. 
-그룹핑(순서없음) unordered list 약자
+tr /tr태그= 행으로 묶어주는 태그 한줄로 묶어준다.
 
-ol
-항목
-/ol   ====항목별로 순서를 나타낸다.  ordered list 약자
+table=로 전체를 묶는다. table border="숫자"======전체를 여러 칸으로 만드는 테이블.
 
-title웹 제목/title>- 열리는 웹 창의 제목을 설정한다
-meta charset="종류" - 태그 추가시 글씨가 깨지는 것을 방지한다.
+thead /thead=제목을 정한다.(표시되진 않음)
 
-head
-본문이 아닌 태그  (사용가능한것: title,meta)  등등
-/head
+tbody /tbody=내용을 정한다.(표시되진 않음)
 
-body
-본문태그   (사용가능한것: h1,li,ol )등등
-/body
+th /th=th로 만들어진 셀은 진하게 표시된다.
 
-html
-모든 내용 = head 태그(문서를 수식, 저장방법 등등), body태그(본문내용)
-/html
+tfoot /tfoot ==자동으로 가장 아래쪽으로 내려진다.ex)합계 등등 구할 때
+
+td rowspan="숫자"===숫자개수의 행이 병합된다. 만약 rowspan을 작성할 경우 병합될 셀의 내용을 지운다
+
+td colspan="숫자" ===숫자개수의 열이 병합된다. 만약 colspan을 작성할 경우 병합될 셀의 내용을 지운다
