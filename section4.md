@@ -48,3 +48,22 @@ input type="file" 입력시 파일선택할 수 있는 창이 만들어진다
 중요!! 파일업로 창을 만들면서. 
 
 폼 형식에 method 는 post로, enctype="multipart/form-data"를 꼭!! 작성해야한다.
+
+
+<strong>정보로서의 HTML</strong>
+
+
+font태그=글씨의 크기를 조절하는 태그
+
+font size="3~7"크기를 바꿀 문자/font
+
+font size="3~7" color="색깔" =문자크기와 색깔 둘다 변경가능
+
+meta태그=어떠한 데이터를 설명할 때 사용하는 태그. 
+                   글씨가 깨지지않게 만들어주는 역할도 함.
+             
+
+meta charset="utf-8" charset=문자의 규칙
+
+ex)meta name="description" content="이름"
+
