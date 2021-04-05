@@ -6,4 +6,5 @@ https://www.inflearn.com/course/html-%EA%B8%B0%EB%B3%B8#
 
 ## 📋 Table of Contents
 - [section0](/section0.md)
-- [section0](/section1.md)
+- [섹션1](/section1.md)
+- [section0](/section2.md)
