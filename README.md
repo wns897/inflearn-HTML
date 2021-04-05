@@ -5,6 +5,6 @@ https://www.inflearn.com/course/html-%EA%B8%B0%EB%B3%B8#
 > 레포지토리에 `README.md` 파일이 존재하면 대표 문서가 된다.!!
 
 ## 📋 Table of Contents
-- [section0](/section0.md)
+- [HTML정의](/section0.md)
 - [섹션1](/section1.md)
 - [section0](/section2.md)
