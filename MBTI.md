@@ -1,3 +1,5 @@
+file:///C:/Users/User/Desktop/MyMBTI-main/MyMBTI-main/start/index.html
+
 <!DOCTYPE html>
 <html lang="ko" dir="ltr">
 
