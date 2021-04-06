@@ -7,9 +7,11 @@ https://www.inflearn.com/course/html-%EA%B8%B0%EB%B3%B8#
 
 ## 📋 Table of Contents
 - [HTML정의](/section0.md)
-- [섹션1](/section1.md)
-- [section0](/section2.md)
-- []
+- [목차](/section1.md)
+- [1](/section2.md)
+- [2](/section3.md)
+- [3](/section4.md)
+- [4](/section5.md)
 
 
 <h2></h2>
