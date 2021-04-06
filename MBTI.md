@@ -66,7 +66,7 @@ file:///C:/Users/User/Desktop/MyMBTI-main/MyMBTI-main/start/index.html
     <script src="./js/data.js" charset="utf-8"></script>
     <script src="./js/start.js" charset="utf-8"></script>
 
-
+ 
   </div>
 </body>
 
